@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Precise Development</Name>
+    <Guid>dbaab224-c456-41e5-8a38-262ce462d7b2</Guid>
+    <ProjectGuid>07dc1b48-d0e7-4d14-83e2-a1cb3d6b1145</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Make it precise to develop cities.</Teaser>
+    <Description>Make it precise to develop cities.</Description>
+    <Authors>Donald33Wang</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+</Associations>]]></AssociationData>
+    <AssemblyName>PreciseDevelopment</AssemblyName>
+    <RootNamespace>PreciseDevelopment</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions />]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="PreciseDevelopment.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
