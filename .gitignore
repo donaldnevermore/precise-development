@@ -2,3 +2,6 @@
 .vscode/
 .idea/
 .vs/
+
+# Solution
+*.civ6suo
