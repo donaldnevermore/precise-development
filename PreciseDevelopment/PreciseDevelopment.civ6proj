@@ -6,8 +6,8 @@
     <Guid>dbaab224-c456-41e5-8a38-262ce462d7b2</Guid>
     <ProjectGuid>07dc1b48-d0e7-4d14-83e2-a1cb3d6b1145</ProjectGuid>
     <ModVersion>1</ModVersion>
-    <Teaser>Make it precise to develop cities.</Teaser>
-    <Description>Make it precise to develop cities.</Description>
+    <Teaser>Make it precise to develop cities</Teaser>
+    <Description>This mod encourages precise development of your cities, instead of finding as many cities as you can.</Description>
     <Authors>Donald33Wang</Authors>
     <SpecialThanks>
     </SpecialThanks>
@@ -21,13 +21,36 @@
 </Associations>]]></AssociationData>
     <AssemblyName>PreciseDevelopment</AssemblyName>
     <RootNamespace>PreciseDevelopment</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions />]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="NewAction"><File>sql/beliefs.sql</File><File>sql/districts.sql</File><File>sql/england.sql</File><File>sql/happiness.sql</File><File>sql/improvements.sql</File><File>sql/policies.sql</File></UpdateDatabase></InGameActions>]]></InGameActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <None Include="PreciseDevelopment.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sql\beliefs.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="sql\districts.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="sql\england.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="sql\happiness.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="sql\improvements.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="sql\policies.sql">
+      <SubType>Content</SubType>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
 </Project>
