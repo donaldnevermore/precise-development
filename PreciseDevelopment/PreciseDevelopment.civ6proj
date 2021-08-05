@@ -21,7 +21,8 @@
 </Associations>]]></AssociationData>
     <AssemblyName>PreciseDevelopment</AssemblyName>
     <RootNamespace>PreciseDevelopment</RootNamespace>
-    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="ReplaceAction"><File>sql/beliefs.sql</File><File>sql/districts.sql</File><File>sql/england.sql</File><File>sql/happiness.sql</File><File>sql/improvements.sql</File><File>sql/policies.sql</File></UpdateDatabase><UpdateText id="ReplaceText"><File>text/english.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="ReplaceAction"><File>sql/beliefs.sql</File><File>sql/districts.sql</File><File>sql/england.sql</File><File>sql/happiness.sql</File><File>sql/improvements.sql</File><File>sql/policies.sql</File></UpdateDatabase><UpdateText id="ReplaceText"><File>text/english.xml</File><File>text/chinese.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateText id="ReplaceFrontEndText"><File>text/english_ui.xml</File><File>text/chinese_ui.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
@@ -49,7 +50,16 @@
     <Content Include="sql\policies.sql">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="text\chinese.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="text\chinese_ui.xml">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="text\english.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="text\english_ui.xml">
       <SubType>Content</SubType>
     </Content>
   </ItemGroup>
