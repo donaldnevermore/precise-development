@@ -1,7 +1,7 @@
 -- England:
--- production towards Industrial Zone buildings increased from 20% to 40%
+-- production towards Industrial Zone buildings increased from 20% to 60%
 update ModifierArguments
-set Value = 40
+set Value = 60
 where ModifierId = 'TRAIT_ADJUST_INDUSTRIAL_ZONE_BUILDINGS_PRODUCTION'
     and Name = 'Amount';
 

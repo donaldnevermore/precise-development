@@ -1,4 +1,4 @@
--- Rationalism science increased from 50% to 200%
+-- Rationalism: extra science increased from 50% to 200%
 update ModifierArguments
 set Value = 200
 where ModifierId = 'RATIONALISM_BUILDING_YIELDS_HIGH_ADJACENCY'
