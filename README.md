@@ -2,7 +2,7 @@
 
 A mod that encourages precise development of your cities, instead of finding as many cities as you can, and that is well adjusted for a peaceful science game.
 
-## v0.1
+## v0.2
 
 - Farm: food increased from 1 to 2
 - Fishing Boats: food increased from 1 to 2
