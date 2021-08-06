@@ -15,5 +15,6 @@ A mod that encourages precise development of your cities, instead of finding as 
   - Happy Growth/NonFoodYield increased from +10%/10% to +20%/20%
   - Ecstatic Growth/NonFoodYield increased from +20%/20% to +40%/40%
 - Industrial Zone: production per citizen increased from +2 to +4
+- Harbor: food per citizen increased from +1 to +2
 - England:
-  - powered buildings' additional yields increased from +4 to +8
+  - additional yields of powered buildings increased from +4 to +8
