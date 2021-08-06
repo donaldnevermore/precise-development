@@ -5,7 +5,7 @@
     <Name>Precise Development</Name>
     <Guid>dbaab224-c456-41e5-8a38-262ce462d7b2</Guid>
     <ProjectGuid>07dc1b48-d0e7-4d14-83e2-a1cb3d6b1145</ProjectGuid>
-    <ModVersion>3</ModVersion>
+    <ModVersion>4</ModVersion>
     <Teaser>Develop your cities precisely</Teaser>
     <Description>A mod that encourages precise development of your cities, instead of finding as many cities as you can, and that is well adjusted for a peaceful science game.</Description>
     <Authors>Donald33Wang</Authors>
