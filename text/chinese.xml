@@ -16,6 +16,9 @@
         <Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="zh_Hans_CN">
             <Text>学院中的建筑额外产出 [ICON_Science] 科技值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%科技值；如区域拥有至少+4相邻加成，+200%科技值。</Text>
         </Replace>
+        <Replace Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>渔船改良提供 +2 [ICON_Production] 生产力.</Text>
+        </Replace>
         <Replace Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION" Language="zh_Hans_CN">
             <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+8。建造工业区建筑时+20% [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。</Text>
         </Replace>

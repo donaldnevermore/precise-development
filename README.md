@@ -23,3 +23,4 @@ A mod that encourages precise development of your cities, instead of finding as 
 - Harbor: food per citizen increased from +1 to +2
 - England:
   - additional yields of powered buildings increased from +4 to +8
+- Colonialism: Fishing Boats production increased from +1 to +2

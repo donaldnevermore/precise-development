@@ -21,3 +21,4 @@ A mod that encourages precise development of your cities, instead of finding as 
 - 港口：每个公民提供的食物从 +1 提高到 +2
 - 英国：
   - 有电力供给的额外产出从 +4 提高到 +8
+- 殖民主义: 渔船改良生产力从 +1 提高到 +2
