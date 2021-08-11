@@ -4,22 +4,26 @@ A mod that encourages precise development of your cities, instead of finding as 
 
 [中文版本](./README_CN.md)
 
-## v0.4
+## v0.5
 
-- Farm: food increased from +1 to +2
-- Fishing Boats: food increased from +1 to +2
-- Lumber Mill: production increased from +2 to +3
-- God of the Sea: Fishing Boats production increased from +1 to +2
-- Rationalism: extra science increased from +50% to +200%
+- Improvements:
+  - Farm: Food +2
+  - Fishing Boats: Food +2
+  - Lumber Mill: Production +3
+- Pantheons:
+  - God of the Sea: Production from Fishing Boats +3
+  - Lady of the Reeds and Marshes: Production from Marsh, Oasis, and Desert Floodplains +3
+- Rationalism: extra Science +200%
 - Happiness:
-  - Revolt NonFoodYield reduced from -40% to -80%
-  - Unrest NonFoodYield reduced from -30% to -60%
-  - Unhappy Growth/NonFoodYield reduced from -30%/-20% to -40%/-40%
-  - Displeased Growth/NonFoodYield reduced from -15%/-10% to -20%/-20%
-  - Happy Growth/NonFoodYield increased from +10%/10% to +20%/20%
-  - Ecstatic Growth/NonFoodYield increased from +20%/20% to +40%/40%
-- Industrial Zone: production per citizen increased from +2 to +4
-- Harbor: food per citizen increased from +1 to +2
+  - Content Growth/NonFoodYield +15%/20%
+  - Happy Growth/NonFoodYield +30%/40%
+  - Ecstatic Growth/NonFoodYield +60%/60%
+- Districts:
+  - Industrial Zone: Production per citizen +4
+  - Campus: Science per citizen +4
+  - Theater: Culture per citizen +4
+  - Holy Site: Faith per citizen +4
 - England:
-  - additional yields of powered buildings increased from +4 to +8
-- Colonialism: Fishing Boats production increased from +1 to +2
+  - additional yields of Powered buildings +8
+  - Production towards Industrial Zone buildings +40%
+- Colonialism: Production from Fishing Boats +2
