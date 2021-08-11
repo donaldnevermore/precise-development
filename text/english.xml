@@ -5,7 +5,7 @@
             <Text>+3 [ICON_Production] Production from Marsh, Oasis, and Desert Floodplains.</Text>
         </Replace>
         <Replace Tag="LOC_BELIEF_GOD_OF_THE_SEA_DESCRIPTION" Language="en_US">
-            <Text>+2 [ICON_Production] Production from Fishing Boats.</Text>
+            <Text>+3 [ICON_Production] Production from Fishing Boats.</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="en_US">
             <Text>Unlocks the Builder ability to construct Farms.[NEWLINE][NEWLINE]+2 [ICON_Food] Food. Can only be built on Grassland or Plains.[NEWLINE][NEWLINE]Constructing farms adjacent to other Farms provides bonuses to Housing.</Text>
