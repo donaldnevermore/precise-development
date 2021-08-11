@@ -11,12 +11,10 @@
             <Text>解锁建造者建造农场的能力。[NEWLINE][NEWLINE]+2 [ICON_Food] 食物。只能建在草原或平原上。[NEWLINE][NEWLINE]农场与农场相邻，能提供住房加成。</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>解锁建造者建造渔船的能力。[NEWLINE][NEWLINE]+2 [ICON_Food] 食物。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在奢侈品资源上，城市则可以利用该资源。
-            </Text>
+            <Text>解锁建造者建造渔船的能力。[NEWLINE][NEWLINE]+2 [ICON_Food] 食物。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在奢侈品资源上，城市则可以利用该资源。</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_LUMBER_MILL_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>解锁建造者建造伐木场的能力。[NEWLINE][NEWLINE]+3 [ICON_Production] 生产力。如果靠近河流，再+1 [ICON_Production] 生产力。只能建在树林里。
-            </Text>
+            <Text>解锁建造者建造伐木场的能力。[NEWLINE][NEWLINE]+3 [ICON_Production] 生产力。如果靠近河流，再+1 [ICON_Production] 生产力。只能建在树林里。</Text>
         </Replace>
         <Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="zh_Hans_CN">
             <Text>学院中的建筑额外产出 [ICON_Science] 科技值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%科技值；如区域拥有至少+4相邻加成，+200%科技值。</Text>
@@ -25,9 +23,7 @@
             <Text>渔船改良提供 +2 [ICON_Production] 生产力.</Text>
         </Replace>
         <Replace Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+8。建造工业区建筑时+40%
-                [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。
-            </Text>
+            <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+8。建造工业区建筑时+40% [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。</Text>
         </Replace>
     </LocalizedText>
 </GameData>
