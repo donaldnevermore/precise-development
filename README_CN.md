@@ -2,7 +2,7 @@
 
 A mod that encourages precise development of your cities, instead of finding as many cities as you can, and that is well adjusted for a peaceful science game.
 
-## v0.5
+## v0.6
 
 - 改良：
   - 农场：食物 +2

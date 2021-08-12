@@ -4,7 +4,7 @@ A mod that encourages precise development of your cities, instead of finding as 
 
 [中文版本](./README_CN.md)
 
-## v0.5
+## v0.6
 
 - Improvements:
   - Farm: Food +2
