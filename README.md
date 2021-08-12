@@ -27,3 +27,4 @@ A mod that encourages precise development of your cities, instead of finding as 
   - additional yields of Powered buildings +8
   - Production towards Industrial Zone buildings +40%
 - Colonialism: Production from Fishing Boats +2
+- District Bonus Adjacencies: yields from every 2 adjacent district tiles +2

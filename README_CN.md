@@ -25,3 +25,4 @@ A mod that encourages precise development of your cities, instead of finding as 
   - 有电力供给的额外产出 +8
   - 建造工业区建筑的生产力 +40%
 - 殖民主义: 渔船改良生产力 +2
+- 区域相邻加成：每 2 个相邻区域产出 +2
