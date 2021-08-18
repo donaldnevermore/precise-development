@@ -2,16 +2,17 @@
 
 A mod that encourages precise development of your cities, instead of finding as many cities as you can, and that is well adjusted for a peaceful science game.
 
-## v0.6
+## v0.7
 
 - 改良：
-  - 农场：食物 +2
-  - 渔船：食物 +2
+  - 农场 & 渔船：食物 +2
   - 伐木场：生产力 +3
+  - 矿山 & 采石场：生产力 +2
 - 万神殿：
   - 海洋之神：渔船生产力 +3
   - 芦苇和沼泽地里的夫人：沼泽、绿洲、沙漠泛滥平原生产力 +3
-- 理性主义：额外科技 +200%
+- 市政：
+  - 理性主义，共享教堂，大歌剧 & 自由市场：额外产出 +200%
 - 幸福度：
   - 满意状态的发展/收益 +15%/20%
   - 高兴状态的发展/收益加成 +30%/40%

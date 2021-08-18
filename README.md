@@ -4,16 +4,17 @@ A mod that encourages precise development of your cities, instead of finding as 
 
 [中文版本](./README_CN.md)
 
-## v0.6
+## v0.7
 
 - Improvements:
-  - Farm: Food +2
-  - Fishing Boats: Food +2
+  - Farm & Fishing Boats: Food +2
   - Lumber Mill: Production +3
+  - Mine & Quarry: Production +2
 - Pantheons:
   - God of the Sea: Production from Fishing Boats +3
   - Lady of the Reeds and Marshes: Production from Marsh, Oasis, and Desert Floodplains +3
-- Rationalism: extra Science +200%
+- Policies:
+  - Rationalism, Simultaneum, Free Market & Grand Opera: extra yields +200%
 - Happiness:
   - Content Growth/NonFoodYield +15%/20%
   - Happy Growth/NonFoodYield +30%/40%

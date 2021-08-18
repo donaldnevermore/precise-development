@@ -15,6 +15,17 @@ set YieldChange = 3
 where ImprovementType = 'IMPROVEMENT_LUMBER_MILL'
     and YieldType = 'YIELD_PRODUCTION';
 
+-- Mine & Quarry: Production increased from +1 to +2
+update Improvement_YieldChanges
+set YieldChange = 2
+where ImprovementType = 'IMPROVEMENT_MINE'
+    and YieldType = 'YIELD_PRODUCTION';
+
+update Improvement_YieldChanges
+set YieldChange = 2
+where ImprovementType = 'IMPROVEMENT_QUARRY'
+    and YieldType = 'YIELD_PRODUCTION';
+
 -- Colonialism: Production from Fishing Boats increased from +1 to +2
 update Improvement_BonusYieldChanges
 set BonusYieldChange = 2
