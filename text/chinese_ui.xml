@@ -2,7 +2,7 @@
 <GameData>
     <LocalizedText>
         <Replace Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+8。建造工业区建筑时+40% [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。</Text>
+            <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+6。建造工业区建筑时+60% [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。</Text>
         </Replace>
     </LocalizedText>
 </GameData>
