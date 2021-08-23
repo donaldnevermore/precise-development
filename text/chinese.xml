@@ -20,15 +20,27 @@
         <Replace Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION" Language="zh_Hans_CN">
             <Text>解锁建造者建造渔船的能力。[NEWLINE][NEWLINE]+2 [ICON_Food] 食物。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在奢侈品资源上，城市则可以利用该资源。</Text>
         </Replace>
+        <Replace Tag="LOC_IMPROVEMENT_LUMBER_MILL_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>解锁建造者建造伐木场的能力。[NEWLINE][NEWLINE]+3 [ICON_Production] 生产力。只能建在树林上。解锁“重商主义”市政后也能建造雨林上。</Text>
+        </Replace>
 
+        <Replace Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>+200%学院相邻加成。</Text>
+        </Replace>
+        <Replace Tag="LOC_POLICY_AESTHETICS_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>+200%剧院广场相邻加成。</Text>
+        </Replace>
+        <Replace Tag="LOC_POLICY_CRAFTSMEN_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>+200%工业区相邻加成。</Text>
+        </Replace>
+        <Replace Tag="LOC_POLICY_FIVE_YEAR_PLAN_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>+200%学院和工业区相邻加成。</Text>
+        </Replace>
+        <Replace Tag="LOC_POLICY_SPORTS_MEDIA_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>+200%剧院广场区相邻，体育场+1 [ICON_Amenities] 宜居度。</Text>
+        </Replace>
         <Replace Tag="LOC_POLICY_RATIONALISM_DESCRIPTION" Language="zh_Hans_CN">
             <Text>学院中的建筑额外产出 [ICON_Science] 科技值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%科技值；如区域拥有至少+4相邻加成，+200%科技值。</Text>
-        </Replace>
-        <Replace Tag="LOC_POLICY_FREE_MARKET_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>商业中心中的建筑将产出额外的 [ICON_Gold] 金币：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%金币；如区域拥有至少+4的相邻加成，+200%金币。</Text>
-        </Replace>
-        <Replace Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>圣地中的建筑将产出额外的 [ICON_Faith] 信仰值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%信仰值；如区域拥有至少+4相邻加成，+200%信仰值。</Text>
         </Replace>
         <Replace Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION" Language="zh_Hans_CN">
             <Text>剧院广场中的建筑将产出额外的 [ICON_Culture] 文化值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%文化值；如区域拥有至少+4相邻加成，+200%文化值。</Text>
@@ -39,7 +51,7 @@
         </Replace>
 
         <Replace Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+6。建造工业区建筑时+60% [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。</Text>
+            <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+8。建造工业区建筑时+60% [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。</Text>
         </Replace>
     </LocalizedText>
 </GameData>

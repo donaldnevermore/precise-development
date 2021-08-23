@@ -18,6 +18,12 @@ update Improvements
 set Housing = 2
 where ImprovementType = 'IMPROVEMENT_FISHING_BOATS';
 
+-- Lumber Mill: Production increased from +2 to +3
+update Improvement_YieldChanges
+set YieldChange = 3
+where ImprovementType = 'IMPROVEMENT_LUMBER_MILL'
+    and YieldType = 'YIELD_PRODUCTION';
+
 -- Mine & Quarry: Production increased from +1 to +3
 update Improvement_YieldChanges
 set YieldChange = 3
