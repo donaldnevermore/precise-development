@@ -1,4 +1,4 @@
--- Industrial Zone, Campus & Theater: yields per citizen increased from +2 to +8
+-- Industrial Zone, Campus, Holy Site & Theater: yields per citizen increased from +2 to +8
 -- Commercial Hub: Gold per citizen increased from +4 to +8
 update District_CitizenYieldChanges
 set YieldChange = 8

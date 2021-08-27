@@ -15,13 +15,22 @@
             <Text>Unlocks the Builder ability to construct Quarries.[NEWLINE][NEWLINE]+3 [ICON_Production] Production. -1 Appeal. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on a Luxury resource, the city will gain use of that resource.</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="en_US">
-            <Text>Unlocks the Builder ability to construct Farms.[NEWLINE][NEWLINE]+2 [ICON_Food] Food. Can only be built on Grassland or Plains.[NEWLINE][NEWLINE]Constructing farms adjacent to other Farms provides bonuses to Housing.</Text>
+            <Text>Unlocks the Builder ability to construct Farms.[NEWLINE][NEWLINE]+3 [ICON_Food] Food. Can only be built on Grassland or Plains.[NEWLINE][NEWLINE]Constructing farms adjacent to other Farms provides bonuses to Housing.</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION" Language="en_US">
-            <Text>Unlocks the Builder ability to construct Fishing Boats.[NEWLINE][NEWLINE]+2 [ICON_Food] Food. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
+            <Text>Unlocks the Builder ability to construct Fishing Boats.[NEWLINE][NEWLINE]+3 [ICON_Food] Food. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_LUMBER_MILL_EXPANSION2_DESCRIPTION" Language="en_US">
             <Text>Unlocks the Builder ability to construct a Lumber Mill.[NEWLINE][NEWLINE]+3 [ICON_Production] Production. Can only be built on Woods. Once Mercantilism is unlocked it can also be built on Rainforest.</Text>
+        </Replace>
+        <Replace Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION" Language="en_US">
+            <Text>Unlocks the Builder ability to construct Pastures.[NEWLINE][NEWLINE]+3 [ICON_Production] Production. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Strategic resources, the city will gain use of that resource.</Text>
+        </Replace>
+        <Replace Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION" Language="en_US">
+            <Text>Unlocks the Builder ability to construct Plantations.[NEWLINE][NEWLINE]+3 [ICON_Gold] Gold. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
+        </Replace>
+        <Replace Tag="LOC_IMPROVEMENT_CAMP_EXPANSION2_DESCRIPTION" Language="en_US">
+            <Text>Unlocks the Builder ability to construct Camps.[NEWLINE][NEWLINE]+3 [ICON_Gold] Gold. Can only be built on valid resources.[NEWLINE][NEWLINE]If built on Luxury resources, the city will gain use of that resource.</Text>
         </Replace>
 
         <Replace Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION" Language="en_US">
@@ -44,10 +53,6 @@
         </Replace>
         <Replace Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION" Language="en_US">
             <Text>Extra [ICON_Culture] Culture from buildings in Theater Squares: +200% if city [ICON_CITIZEN] population is 15 or higher, +200% if district has at least +4 adjacency bonus.</Text>
-        </Replace>
-
-        <Replace Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION" Language="en_US">
-            <Text>The Fishing Boats improvement receives +3 [ICON_Production] Production.</Text>
         </Replace>
 
         <Replace Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION" Language="en_US">

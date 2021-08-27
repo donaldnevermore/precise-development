@@ -15,13 +15,22 @@
             <Text>解锁建造者建造采石场的能力。[NEWLINE][NEWLINE]+3 [ICON_Production] 生产力。为相邻单元格提供-1魅力。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在奢侈品资源上，城市则可以利用该资源。</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_FARM_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>解锁建造者建造农场的能力。[NEWLINE][NEWLINE]+2 [ICON_Food] 食物。只能建在草原或平原上。[NEWLINE][NEWLINE]农场与农场相邻，能提供住房加成。</Text>
+            <Text>解锁建造者建造农场的能力。[NEWLINE][NEWLINE]+3 [ICON_Food] 食物。只能建在草原或平原上。[NEWLINE][NEWLINE]农场与农场相邻，能提供住房加成。</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_FISHING_BOATS_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>解锁建造者建造渔船的能力。[NEWLINE][NEWLINE]+2 [ICON_Food] 食物。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在奢侈品资源上，城市则可以利用该资源。</Text>
+            <Text>解锁建造者建造渔船的能力。[NEWLINE][NEWLINE]+3 [ICON_Food] 食物。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在奢侈品资源上，城市则可以利用该资源。</Text>
         </Replace>
         <Replace Tag="LOC_IMPROVEMENT_LUMBER_MILL_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
             <Text>解锁建造者建造伐木场的能力。[NEWLINE][NEWLINE]+3 [ICON_Production] 生产力。只能建在树林上。解锁“重商主义”市政后也能建造雨林上。</Text>
+        </Replace>
+        <Replace Tag="LOC_IMPROVEMENT_PASTURE_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>解锁建造者建造牧场的能力。[NEWLINE][NEWLINE]+3 [ICON_Production] 生产力。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在战略资源上，城市则可以利用该资源。</Text>
+        </Replace>
+        <Replace Tag="LOC_IMPROVEMENT_PLANTATION_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>解锁建造者建造种植园的能力。[NEWLINE][NEWLINE]+3 [ICON_Gold] 金币。只能在有效资源上建造。[NEWLINE][NEWLINE]如果建在奢侈品资源上，城市则可以利用该资源。</Text>
+        </Replace>
+        <Replace Tag="LOC_IMPROVEMENT_CAMP_EXPANSION2_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>解锁建造者建造营地的能力。[NEWLINE][NEWLINE]+3 [ICON_Gold] 金币。只能在有效资源上建造。[NEWLINE][NEWLINE]如建在奢侈品资源上，城市则能利用该资源。</Text>
         </Replace>
 
         <Replace Tag="LOC_POLICY_NATURAL_PHILOSOPHY_DESCRIPTION" Language="zh_Hans_CN">
@@ -44,10 +53,6 @@
         </Replace>
         <Replace Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION" Language="zh_Hans_CN">
             <Text>剧院广场中的建筑将产出额外的 [ICON_Culture] 文化值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%文化值；如区域拥有至少+4相邻加成，+200%文化值。</Text>
-        </Replace>
-
-        <Replace Tag="LOC_CIVIC_COLONIALISM_DESCRIPTION" Language="zh_Hans_CN">
-            <Text>渔船改良提供 +3 [ICON_Production] 生产力.</Text>
         </Replace>
 
         <Replace Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION" Language="zh_Hans_CN">
