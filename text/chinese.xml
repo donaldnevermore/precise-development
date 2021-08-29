@@ -54,6 +54,12 @@
         <Replace Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION" Language="zh_Hans_CN">
             <Text>剧院广场中的建筑将产出额外的 [ICON_Culture] 文化值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%文化值；如区域拥有至少+4相邻加成，+200%文化值。</Text>
         </Replace>
+        <Replace Tag="LOC_POLICY_SIMULTANEUM_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>圣地中的建筑将产出额外的 [ICON_Faith] 信仰值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%信仰值；如区域拥有至少+4相邻加成，+200%信仰值。</Text>
+        </Replace>
+        <Replace Tag="LOC_POLICY_GRAND_OPERA_DESCRIPTION" Language="zh_Hans_CN">
+            <Text>剧院广场中的建筑将产出额外的 [ICON_Culture] 文化值：如城市 [ICON_CITIZEN] 人口大于等于15点，+200%文化值；如区域拥有至少+4相邻加成，+200%文化值。</Text>
+        </Replace>
 
         <Replace Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION" Language="zh_Hans_CN">
             <Text>每回合收集的铁与煤额外增加2点。生产军事工程师时+100% [ICON_PRODUCTION] 生产力。军事工程师+2建造次数。拥有电力供给时，建筑的额外产出+8。建造工业区建筑时+60% [ICON_PRODUCTION] 生产力。港口建筑使标准速度下的战略资源储备+10。</Text>

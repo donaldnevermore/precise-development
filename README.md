@@ -11,12 +11,10 @@ Can you win a peaceful science game within 100 turns? This mod is to encourage p
   - God of the Sea: Production from Fishing Boats +3
   - Lady of the Reeds and Marshes: Production from Marsh, Oasis, and Desert Floodplains +3
 - Policies:
-  - Rationalism & Grand Opera: extra yields +200%
+  - Rationalism, Simultaneum, Free Market & Grand Opera: extra yields +200%
   - Natural Philosophy, Craftsmen, Aesthetics, Five-Year Plan & Sports Media: adjacency bonuses +200%
 - Happiness:
-  - Content Growth/NonFoodYield +15%/20%
-  - Happy Growth/NonFoodYield +30%/40%
-  - Ecstatic Growth/NonFoodYield +60%/60%
+  - Content/Happy/Ecstatic Growth/NonFoodYield +20%/40%/60%
 - Districts:
   - Industrial Zone, Campus, Theater, Holy Site & Commercial Hub: yields per citizen +8
 - District Bonus Adjacencies: yields from every 2 adjacent district tiles +3
